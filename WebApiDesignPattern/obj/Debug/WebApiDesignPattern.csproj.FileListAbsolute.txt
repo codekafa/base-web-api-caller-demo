@@ -1,0 +1,14 @@
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\WebApiDesignPattern.exe.config
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\WebApiDesignPattern.exe
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\WebApiDesignPattern.pdb
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\obj\Debug\WebApiDesignPattern.csprojAssemblyReference.cache
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\obj\Debug\WebApiDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\obj\Debug\WebApiDesignPattern.exe
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\obj\Debug\WebApiDesignPattern.pdb
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\Core.Infrastructure.dll
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\Core.Model.dll
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\Core.Infrastructure.pdb
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\Core.Model.pdb
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\takoc\source\repos\WebApiDesignPattern\WebApiDesignPattern\obj\Debug\WebApiDesignPattern.csproj.CopyComplete

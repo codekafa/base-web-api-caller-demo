@@ -1,0 +1,9 @@
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\bin\Debug\Core.Infrastructure.dll
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\bin\Debug\Core.Infrastructure.pdb
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\obj\Debug\Core.Infrastructure.csprojAssemblyReference.cache
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\obj\Debug\Core.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\obj\Debug\Core.Infrastructure.csproj.CopyComplete
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\obj\Debug\Core.Infrastructure.dll
+C:\Users\takoc\source\repos\WebApiDesignPattern\Core.Infrastructure\obj\Debug\Core.Infrastructure.pdb
